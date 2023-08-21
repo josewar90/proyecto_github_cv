@@ -347,7 +347,7 @@ background-color: #fff;
     margin-top: 1.2em;
 }
 
-.redes_sociales:hover {
+.redes_sociales i:hover {
     background-color: #fff;
     box-shadow: none
 }
