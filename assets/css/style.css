@@ -345,6 +345,7 @@ background-color: #fff;
     justify-content: space-evenly;
     width: 340px;
     margin-top: 1.2em;
+    cursor: pointer;
 }
 
 .redes_sociales i:hover {
